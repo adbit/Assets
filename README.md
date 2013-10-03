@@ -1,0 +1,4 @@
+Assets
+======
+
+All about assets
