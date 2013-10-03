@@ -3,40 +3,34 @@
 		<still_hungry_version>1</still_hungry_version>
 	</still_hungry>
 	
-	<new_release>
-		<app>
-			<app_should_be_processed>false</app_should_be_processed>
-			<app_name>App1</app_name>
-			<app_package_name>com.adbit.feed</app_package_name>
-			<app_description>One of the innovative app!</app_description>
-			<app_version>1</app_version>
-			<app_icon_link></app_icon_link>
-			<app_market_links>
-				<google_play>https://play.google.com/store/apps/details?id=
-				</google_play>
-				<amazon></amazon>
-			</app_market_links>
-			<app_category></app_category>
-			<app_notification_id>1111</app_notification_id>
-		</app>
-	</new_release>
-	
-	<apps_list>
-		<app>
-			<app_should_be_processed>false</app_should_be_processed>
-			<app_name>App1</app_name>
-			<app_package_name>com.adbit.feed</app_package_name>
-			<app_description>One of the innovative app!</app_description>
-			<app_version>1</app_version>
-			<app_icon_link></app_icon_link>
-			<app_market_links>
-				<google_play>https://play.google.com/store/apps/details?id=
-				</google_play>
-				<amazon></amazon>
-			</app_market_links>
-			<app_category></app_category>
-			<app_notification_id>App1</app_notification_id>
-		</app>
-		
-	</apps_list>
+	<app>
+		<new_release>true</new_release>
+		<app_should_be_processed>false</app_should_be_processed>
+		<app_name>App1</app_name>
+		<app_package_name>com.adbit.feed</app_package_name>
+		<app_description>One of the innovative app!</app_description>
+		<app_version>1</app_version>
+		<app_icon_link></app_icon_link>
+		<app_market_links>
+			<google_play>https://play.google.com/store/apps/details?id=</google_play>
+			<amazon></amazon>
+		</app_market_links>
+		<app_category></app_category>
+		<app_notification_id>1111</app_notification_id>
+	</app>
+	<app>
+		<new_release>false</new_release>
+		<app_should_be_processed>false</app_should_be_processed>
+		<app_name>App1</app_name>
+		<app_package_name>com.adbit.feed</app_package_name>
+		<app_description>One of the innovative app!</app_description>
+		<app_version>1</app_version>
+		<app_icon_link></app_icon_link>
+		<app_market_links>
+			<google_play>https://play.google.com/store/apps/details?id=</google_play>
+			<amazon></amazon>
+		</app_market_links>
+		<app_category></app_category>
+		<app_notification_id>App1</app_notification_id>
+	</app>
 </root>
