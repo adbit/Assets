@@ -1,6 +1,6 @@
 <root>
 	<still_hungry>
-		<sh_should_be_processed>true</sh_should_be_processed>
+		<sh_should_be_processed>false</sh_should_be_processed>
 		<still_hungry_version>1</still_hungry_version>
 	</still_hungry>
 	
@@ -22,7 +22,7 @@
 	<app>
 		<new_release>false</new_release>
 		<app_should_be_processed>false</app_should_be_processed>
-		<app_name>App1</app_name>
+		<app_name>1</app_name>
 		<app_package_name>com.adbit.feed</app_package_name>
 		<app_description>One of the innovative app!</app_description>
 		<app_version>1</app_version>
