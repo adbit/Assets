@@ -1,5 +1,6 @@
 <root>
 	<still_hungry>
+		<sh_should_be_processed>true</sh_should_be_processed>
 		<still_hungry_version>1</still_hungry_version>
 	</still_hungry>
 	
