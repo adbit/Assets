@@ -2,6 +2,7 @@
 	<still_hungry>
 		<sh_should_be_processed>false</sh_should_be_processed>
 		<still_hungry_version>1</still_hungry_version>
+		<still_hungry_url>https://raw.github.com/adbit/Assets/master/SH/still_hungry_android.xml</still_hungry_url>
 	</still_hungry>
 	
 	<app>
