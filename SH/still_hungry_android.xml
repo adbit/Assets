@@ -1,38 +1,38 @@
 <root>
 	<still_hungry>
-		<sh_should_be_processed>false</sh_should_be_processed>
+		<sh_should_be_processed>true</sh_should_be_processed>
 		<still_hungry_version>1</still_hungry_version>
 		<still_hungry_url>https://raw.github.com/adbit/Assets/master/SH/still_hungry_android.xml</still_hungry_url>
 	</still_hungry>
 	
 	<app>
 		<new_release>true</new_release>
-		<app_should_be_processed>false</app_should_be_processed>
-		<app_name>App1</app_name>
-		<app_package_name>com.adbit.feed</app_package_name>
-		<app_description>One of the innovative app!</app_description>
+		<app_should_be_processed>true</app_should_be_processed>
+		<app_name>Horoscope</app_name>
+		<app_package_name>com.adbit.myhoroscope</app_package_name>
+		<app_description>Get daily horoscope of your sign,  Know personality of all zodiac sign's and Know personality of people born in various months..</app_description>
 		<app_version>1</app_version>
-		<app_icon_link></app_icon_link>
+		<app_icon_link>https://lh4.ggpht.com/J1UN4AnhGU2tM2CL6BJgk7PALwm2k0yiu16PcMjQaxuzg5o_kMrbiJKIRabTn38rfwc=w300</app_icon_link>
 		<app_market_links>
-			<google_play>https://play.google.com/store/apps/details?id=</google_play>
+			<google_play>https://play.google.com/store/apps/details?id=com.adbit.myhoroscope</google_play>
 			<amazon></amazon>
 		</app_market_links>
 		<app_category></app_category>
 		<app_notification_id>1111</app_notification_id>
 	</app>
 	<app>
-		<new_release>false</new_release>
-		<app_should_be_processed>false</app_should_be_processed>
-		<app_name>1</app_name>
-		<app_package_name>com.adbit.feed</app_package_name>
-		<app_description>One of the innovative app!</app_description>
+		<new_release>true</new_release>
+		<app_should_be_processed>true</app_should_be_processed>
+		<app_name>Football Everywhere</app_name>
+		<app_package_name>com.adbit.footballeverywhere</app_package_name>
+		<app_description>Football world cup kicking off.. Don't you like to be updated about it ?Download this app to  Keep yourself to latest news in football world, Check what football celebrities says over the media and more..</app_description>
 		<app_version>1</app_version>
-		<app_icon_link></app_icon_link>
+		<app_icon_link>https://lh6.ggpht.com/kJzueviSFbYmD3j4pM3RWkUnTatCeNpnz9Y-qG9TuYPpeI7wJUrcHsl3IReCFe9vtnjr=w300</app_icon_link>
 		<app_market_links>
-			<google_play>https://play.google.com/store/apps/details?id=</google_play>
+			<google_play>https://play.google.com/store/apps/details?id=footballeverywhere</google_play>
 			<amazon></amazon>
 		</app_market_links>
 		<app_category></app_category>
-		<app_notification_id>App1</app_notification_id>
+		<app_notification_id>2222</app_notification_id>
 	</app>
 </root>
