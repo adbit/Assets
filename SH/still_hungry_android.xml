@@ -6,7 +6,7 @@
 	</still_hungry>
 	
 	<app>
-		<new_release>true</new_release>
+		<new_release>false</new_release>
 		<app_should_be_processed>true</app_should_be_processed>
 		<app_name>Horoscope</app_name>
 		<app_package_name>com.adbit.myhoroscope</app_package_name>
