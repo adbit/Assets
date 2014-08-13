@@ -15,7 +15,7 @@
 		<app_icon_link>https://lh4.ggpht.com/J1UN4AnhGU2tM2CL6BJgk7PALwm2k0yiu16PcMjQaxuzg5o_kMrbiJKIRabTn38rfwc=w300</app_icon_link>
 		<app_market_links>
 			<google_play>https://play.google.com/store/apps/details?id=com.adbit.myhoroscope</google_play>
-			<amazon></amazon>
+			<amazon>http://www.amazon.com/gp/mas/dl/android?p=com.adbit.myhoroscope</amazon>
 		</app_market_links>
 		<app_category></app_category>
 		<app_notification_id>1111</app_notification_id>
@@ -29,8 +29,8 @@
 		<app_version>1</app_version>
 		<app_icon_link>https://lh6.ggpht.com/kJzueviSFbYmD3j4pM3RWkUnTatCeNpnz9Y-qG9TuYPpeI7wJUrcHsl3IReCFe9vtnjr=w300</app_icon_link>
 		<app_market_links>
-			<google_play>https://play.google.com/store/apps/details?id=footballeverywhere</google_play>
-			<amazon></amazon>
+			<google_play>https://play.google.com/store/apps/details?id=com.adbit.footballeverywhere</google_play>
+			<amazon>http://www.amazon.com/gp/mas/dl/android?p=com.adbit.footballeverywhere</amazon>
 		</app_market_links>
 		<app_category></app_category>
 		<app_notification_id>2222</app_notification_id>
