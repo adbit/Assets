@@ -4,7 +4,20 @@
 		<still_hungry_version>1</still_hungry_version>
 		<still_hungry_url>https://raw.github.com/adbit/Assets/master/SH/still_hungry_android.xml</still_hungry_url>
 	</still_hungry>
-	
+	<app>
+		<new_release>false</new_release>
+		<app_should_be_processed>true</app_should_be_processed>
+		<app_name>JetFighter</app_name>
+		<app_package_name>com.adbit.game.jetfighter</app_package_name>
+		<app_description>Heart pumping game of fighter planes. Squash as much enemy jets as possible!..</app_description>
+		<app_version>1</app_version>
+		<app_icon_link>https://lh3.googleusercontent.com/jS3gIDSFsnviOOCF3zgkZg2IIa9qIGrXiKXogC8yr6tzRK2AHC-8p9956sbQTARqTcmE=w300</app_icon_link>
+		<app_market_links>
+			<google_play>https://play.google.com/store/apps/details?id=com.adbit.game.jetfighter</google_play>
+		</app_market_links>
+		<app_category></app_category>
+		<app_notification_id>1000</app_notification_id>
+	</app>
 	<app>
 		<new_release>false</new_release>
 		<app_should_be_processed>true</app_should_be_processed>
@@ -18,7 +31,7 @@
 			<amazon>http://www.amazon.com/gp/mas/dl/android?p=com.adbit.myhoroscope</amazon>
 		</app_market_links>
 		<app_category></app_category>
-		<app_notification_id>1111</app_notification_id>
+		<app_notification_id>1001</app_notification_id>
 	</app>
 	<app>
 		<new_release>true</new_release>
@@ -33,7 +46,7 @@
 			<amazon>http://www.amazon.com/gp/mas/dl/android?p=com.adbit.footballeverywhere</amazon>
 		</app_market_links>
 		<app_category></app_category>
-		<app_notification_id>2222</app_notification_id>
+		<app_notification_id>2000</app_notification_id>
 	</app>
 	<app>
 		<new_release>true</new_release>
@@ -47,7 +60,7 @@
 			<google_play>https://play.google.com/store/apps/details?id=com.adbit.quiz.cricket</google_play>
 		</app_market_links>
 		<app_category></app_category>
-		<app_notification_id>3333</app_notification_id>
+		<app_notification_id>2001</app_notification_id>
 	</app>
 	<app>
 		<new_release>true</new_release>
@@ -61,6 +74,6 @@
 			<google_play>https://play.google.com/store/apps/details?id=com.adbit.quiz.movies.hollywood</google_play>
 		</app_market_links>
 		<app_category></app_category>
-		<app_notification_id>3333</app_notification_id>
+		<app_notification_id>2002</app_notification_id>
 	</app>
 </root>
