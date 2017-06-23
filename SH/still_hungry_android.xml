@@ -14,6 +14,7 @@
 		<app_icon_link>https://lh3.googleusercontent.com/jS3gIDSFsnviOOCF3zgkZg2IIa9qIGrXiKXogC8yr6tzRK2AHC-8p9956sbQTARqTcmE=w300</app_icon_link>
 		<app_market_links>
 			<google_play>https://play.google.com/store/apps/details?id=com.adbit.game.jetfighter</google_play>
+      <amazon>https://www.amazon.com/gp/mas/dl/android?p=com.adbit.game.jetfighter</amazon>
 		</app_market_links>
 		<app_category></app_category>
 		<app_notification_id>1000</app_notification_id>
